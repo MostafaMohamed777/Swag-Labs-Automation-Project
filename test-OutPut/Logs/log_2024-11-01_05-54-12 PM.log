@@ -1,0 +1,7 @@
+[INFO] 01-11-2024 17:54:12 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:39)] - Chrome driver is opened
+[INFO] 01-11-2024 17:54:14 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:41)] - Page is redirected to URL
+[INFO] 01-11-2024 17:54:15 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckOutStepTwoTCStarted
+[INFO] 01-11-2024 17:54:15 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 01-11-2024 17:54:17 [main] [Pages.P05_PaymentPage.calculateTotalPrice(P05_PaymentPage.java:40)] - Calc Total Price=10.4129.94
+[INFO] 01-11-2024 17:54:17 [main] [Pages.P05_PaymentPage.getTotalPrice(P05_PaymentPage.java:35)] - Actual Total Price =140.34
+[INFO] 01-11-2024 17:54:17 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckOutStepTwoTCPassed

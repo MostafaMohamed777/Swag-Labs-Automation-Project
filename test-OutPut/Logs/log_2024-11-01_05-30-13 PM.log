@@ -1,0 +1,6 @@
+[INFO] 01-11-2024 17:30:13 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:39)] - Chrome driver is opened
+[INFO] 01-11-2024 17:30:14 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:41)] - Page is redirected to URL
+[INFO] 01-11-2024 17:30:14 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckOutStepTwoTCStarted
+[INFO] 01-11-2024 17:30:15 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 4
+[INFO] 01-11-2024 17:30:15 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 5
+[INFO] 01-11-2024 17:30:21 [main] [Listeners.iInvokedMethodListenersClass.afterInvocation(iInvokedMethodListenersClass.java:24)] - Test CasecheckOutStepTwoTCfailed

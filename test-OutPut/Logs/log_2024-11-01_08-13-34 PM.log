@@ -1,0 +1,5 @@
+[INFO] 01-11-2024 20:13:34 [main] [Tests.Tc06_FinishingOrderTc.setUp(Tc06_FinishingOrderTc.java:39)] - Chrome driver is opened
+[INFO] 01-11-2024 20:13:37 [main] [Tests.Tc06_FinishingOrderTc.setUp(Tc06_FinishingOrderTc.java:41)] - Page is redirected to URL
+[INFO] 01-11-2024 20:13:37 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckForFinishingOrderTcStarted
+[INFO] 01-11-2024 20:13:37 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 01-11-2024 20:13:39 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckForFinishingOrderTcPassed

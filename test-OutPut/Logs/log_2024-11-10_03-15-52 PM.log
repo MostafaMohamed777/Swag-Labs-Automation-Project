@@ -1,0 +1,69 @@
+[INFO] 10-11-2024 15:15:52 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:38)] - null
+[INFO] 10-11-2024 15:15:59 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:40)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:10 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:42)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:10 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CaseLoginTCStarted
+[INFO] 10-11-2024 15:16:11 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CaseLoginTCPassed
+[INFO] 10-11-2024 15:16:12 [main] [Tests.TC02_LandingTest.logIn(TC02_LandingTest.java:37)] - null
+[INFO] 10-11-2024 15:16:14 [main] [Tests.TC02_LandingTest.logIn(TC02_LandingTest.java:39)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:15 [main] [Tests.TC02_LandingTest.logIn(TC02_LandingTest.java:41)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:17 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:55)] - null
+[INFO] 10-11-2024 15:16:19 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:57)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:21 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:59)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:22 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CaseAddRandomProductToCartTCStarted
+[INFO] 10-11-2024 15:16:22 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 1
+[INFO] 10-11-2024 15:16:22 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 3
+[INFO] 10-11-2024 15:16:22 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 5
+[INFO] 10-11-2024 15:16:22 [main] [Pages.P02_LandingPage.getNumOfProductFromCart(P02_LandingPage.java:59)] - Number Of Products On Cart Is3
+[INFO] 10-11-2024 15:16:23 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:70)] - Number of Selected Products Is3
+[INFO] 10-11-2024 15:16:23 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CaseAddRandomProductToCartTCPassed
+[INFO] 10-11-2024 15:16:28 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:55)] - null
+[INFO] 10-11-2024 15:16:30 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:57)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:32 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:59)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:33 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CaseInValidTCStarted
+[INFO] 10-11-2024 15:16:33 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 10-11-2024 15:16:33 [main] [Pages.P02_LandingPage.getNumOfProductFromCart(P02_LandingPage.java:59)] - Number Of Products On Cart Is6
+[INFO] 10-11-2024 15:16:33 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:70)] - Number of Selected Products Is6
+[INFO] 10-11-2024 15:16:33 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CaseInValidTCPassed
+[INFO] 10-11-2024 15:16:35 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:55)] - null
+[INFO] 10-11-2024 15:16:37 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:57)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:37 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:59)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:42 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckingNumOfSelectedProductsTcStarted
+[INFO] 10-11-2024 15:16:42 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 10-11-2024 15:16:42 [main] [Pages.P02_LandingPage.getNumOfProductFromCart(P02_LandingPage.java:59)] - Number Of Products On Cart Is6
+[INFO] 10-11-2024 15:16:42 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:70)] - Number of Selected Products Is6
+[INFO] 10-11-2024 15:16:42 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckingNumOfSelectedProductsTcPassed
+[INFO] 10-11-2024 15:16:44 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:55)] - null
+[INFO] 10-11-2024 15:16:46 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:57)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:47 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:59)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:48 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CaseclickOnCartIconStarted
+[INFO] 10-11-2024 15:16:48 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CaseclickOnCartIconPassed
+[INFO] 10-11-2024 15:16:49 [main] [Tests.Tc03_CartTest.setUp(Tc03_CartTest.java:35)] - null
+[INFO] 10-11-2024 15:16:51 [main] [Tests.Tc03_CartTest.setUp(Tc03_CartTest.java:37)] - Chrome driver is opened
+[INFO] 10-11-2024 15:16:53 [main] [Tests.Tc03_CartTest.setUp(Tc03_CartTest.java:39)] - Page is redirected to URL
+[INFO] 10-11-2024 15:16:53 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecomparingPricesTcStarted
+[INFO] 10-11-2024 15:16:54 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 2
+[INFO] 10-11-2024 15:16:54 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 5
+[INFO] 10-11-2024 15:16:54 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:91)] - Total Price17.98
+[INFO] 10-11-2024 15:16:54 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:35)] - Total Price17.98
+[INFO] 10-11-2024 15:16:54 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecomparingPricesTcPassed
+[INFO] 10-11-2024 15:16:56 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:42)] - null
+[INFO] 10-11-2024 15:16:58 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:44)] - Chrome driver is opened
+[INFO] 10-11-2024 15:17:06 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:46)] - Page is redirected to URL
+[INFO] 10-11-2024 15:17:06 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckOutStepOneTCStarted
+[INFO] 10-11-2024 15:17:07 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 3
+[INFO] 10-11-2024 15:17:07 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 6
+[INFO] 10-11-2024 15:17:08 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckOutStepOneTCPassed
+[INFO] 10-11-2024 15:17:13 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:39)] - null
+[INFO] 10-11-2024 15:17:15 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:41)] - Chrome driver is opened
+[INFO] 10-11-2024 15:17:16 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:43)] - Page is redirected to URL
+[INFO] 10-11-2024 15:17:16 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckOutStepTwoTCStarted
+[INFO] 10-11-2024 15:17:17 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 10-11-2024 15:17:18 [main] [Pages.P05_PaymentPage.calculateTotalPrice(P05_PaymentPage.java:43)] - Calc Total Price=140.34
+[INFO] 10-11-2024 15:17:18 [main] [Pages.P05_PaymentPage.getTotalPrice(P05_PaymentPage.java:38)] -  Total Price IS=140.34
+[INFO] 10-11-2024 15:17:18 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckOutStepTwoTCPassed
+[INFO] 10-11-2024 15:17:20 [main] [Tests.Tc06_FinishingOrderTc.setUp(Tc06_FinishingOrderTc.java:39)] - null
+[INFO] 10-11-2024 15:17:22 [main] [Tests.Tc06_FinishingOrderTc.setUp(Tc06_FinishingOrderTc.java:41)] - Chrome driver is opened
+[INFO] 10-11-2024 15:17:23 [main] [Tests.Tc06_FinishingOrderTc.setUp(Tc06_FinishingOrderTc.java:43)] - Page is redirected to URL
+[INFO] 10-11-2024 15:17:23 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckForFinishingOrderTcStarted
+[INFO] 10-11-2024 15:17:24 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 10-11-2024 15:17:26 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckForFinishingOrderTcPassed

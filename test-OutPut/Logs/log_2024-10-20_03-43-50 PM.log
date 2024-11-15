@@ -1,0 +1,7 @@
+[INFO] 20-10-2024 15:43:50 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:34)] - Chrome driver is opened
+[INFO] 20-10-2024 15:43:51 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:36)] - Page is redirected to URL
+[INFO] 20-10-2024 15:43:52 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CaseInValidTCStarted
+[INFO] 20-10-2024 15:43:52 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:34)] - Number Of All Products Is6
+[INFO] 20-10-2024 15:43:53 [main] [Pages.P02_LandingPage.getNumOfProductFromCart(P02_LandingPage.java:44)] - Number Of Products On Cart Is6
+[INFO] 20-10-2024 15:43:53 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - Number of Selected Products Is6
+[INFO] 20-10-2024 15:43:53 [main] [Listeners.iInvokedMethodListenersClass.afterInvocation(iInvokedMethodListenersClass.java:23)] - Test CaseInValidTCfailed

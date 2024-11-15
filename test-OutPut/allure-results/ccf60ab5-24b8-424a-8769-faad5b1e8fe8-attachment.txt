@@ -1,0 +1,3 @@
+[INFO] 10-11-2024 16:00:09 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:38)] - null
+[INFO] 10-11-2024 16:00:12 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:40)] - Chrome driver is opened
+[INFO] 10-11-2024 16:00:15 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:42)] - Page is redirected to URL

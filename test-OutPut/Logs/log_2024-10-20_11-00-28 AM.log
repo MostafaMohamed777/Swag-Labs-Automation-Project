@@ -1,0 +1,5 @@
+[INFO] 20-10-2024 11:00:28 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Chrome driver is opened
+[INFO] 20-10-2024 11:00:29 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Page is redirected to URL
+[INFO] 20-10-2024 11:00:30 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:30)] - Number Of All Products Is6
+[INFO] 20-10-2024 11:00:31 [main] [Pages.P02_LandingPage.getNumOfProductFromCart(P02_LandingPage.java:40)] - Number Of Products On Cart Is6
+[INFO] 20-10-2024 11:00:31 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:51)] - Number of Selected Products Is6

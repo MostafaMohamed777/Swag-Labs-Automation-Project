@@ -1,0 +1,6 @@
+[INFO] 01-11-2024 14:14:58 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:42)] - Chrome driver is opened
+[INFO] 01-11-2024 14:15:00 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:44)] - Page is redirected to URL
+[INFO] 01-11-2024 14:15:00 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckOutStepOneTCStarted
+[INFO] 01-11-2024 14:15:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 3
+[INFO] 01-11-2024 14:15:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:50)] - Random Number is 4
+[INFO] 01-11-2024 14:15:02 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckOutStepOneTCPassed

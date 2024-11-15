@@ -1,0 +1,9 @@
+[INFO] 02-11-2024 12:41:02 [main] [Tests.TC02_LandingTest.logIn(TC02_LandingTest.java:37)] - Chrome driver is opened
+[INFO] 02-11-2024 12:41:05 [main] [Tests.TC02_LandingTest.logIn(TC02_LandingTest.java:39)] - Page is redirected to URL
+[INFO] 02-11-2024 12:41:12 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:53)] - Chrome driver is opened
+[INFO] 02-11-2024 12:41:16 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:55)] - Page is redirected to URL
+[INFO] 02-11-2024 12:41:21 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckingNumOfSelectedProductsTcStarted
+[INFO] 02-11-2024 12:41:22 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:38)] - Number Of All Products Is6
+[INFO] 02-11-2024 12:41:22 [main] [Pages.P02_LandingPage.getNumOfProductFromCart(P02_LandingPage.java:59)] - Number Of Products On Cart Is6
+[INFO] 02-11-2024 12:41:22 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:70)] - Number of Selected Products Is6
+[INFO] 02-11-2024 12:41:22 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CasecheckingNumOfSelectedProductsTcPassed

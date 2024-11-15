@@ -1,0 +1,5 @@
+[INFO] 08-11-2024 23:31:29 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:38)] - null
+[INFO] 08-11-2024 23:31:35 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:40)] - Chrome driver is opened
+[INFO] 08-11-2024 23:31:38 [main] [Tests.TC01_LoginTc.setUp(TC01_LoginTc.java:42)] - Page is redirected to URL
+[INFO] 08-11-2024 23:31:38 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CaseLoginTCStarted
+[INFO] 08-11-2024 23:31:38 [main] [Listeners.iTestResultListenersClass.onTestSuccess(iTestResultListenersClass.java:13)] - Test CaseLoginTCPassed

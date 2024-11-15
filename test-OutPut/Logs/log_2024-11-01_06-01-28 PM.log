@@ -1,0 +1,4 @@
+[INFO] 01-11-2024 18:01:28 [main] [Tests.Tc05_PaymentTC.setUp(Tc05_PaymentTC.java:39)] - Chrome driver is opened
+[INFO] 01-11-2024 18:02:03 [main] [Listeners.iInvokedMethodListenersClass.afterInvocation(iInvokedMethodListenersClass.java:24)] - Test CasesetUpfailed
+[INFO] 01-11-2024 18:02:03 [main] [Listeners.iTestResultListenersClass.onTestStart(iTestResultListenersClass.java:9)] - Test CasecheckOutStepTwoTCStarted
+[INFO] 01-11-2024 18:02:03 [main] [Listeners.iTestResultListenersClass.onTestSkipped(iTestResultListenersClass.java:16)] - Test CasecheckOutStepTwoTCSkipped
