@@ -203,7 +203,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
         <dependency>
             <groupId>org.aspectj</groupId>
@@ -211,8 +210,7 @@
             <version>${aspectj.version}</version>
             <scope>runtime</scope>
         </dependency>
-
-
+        
     </dependencies>
 
 </project>
